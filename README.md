@@ -4,7 +4,7 @@ Este projeto é um jogo clássico de Snake desenvolvido em Python utilizando a b
 
 ---
 
-## Requisitos 🔹
+## 🔹 Requisitos 
 
 - **Python 3.x**
 - **Pygame**: Para instalar, use o comando:
@@ -15,7 +15,7 @@ pip install pygame
 
 ---
 
-## Como Jogar 🎮
+## 🎮 Como Jogar 
 
 1. Execute o arquivo do jogo:
 
@@ -47,7 +47,7 @@ pip install pygame
 
 ---
 
-## Estrutura do Código 🧩
+## 🧩 Estrutura do Código 
 
 ### Cores e Dimensões
 Configurações básicas do jogo:
@@ -74,13 +74,13 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
 ---
 
-## Dependências de Recursos 📂
+## 📂 Dependências de Recursos 
 
 Certifique-se de que o arquivo **`player.png`** (sprite da cobra) esteja presente na mesma pasta que o código. A imagem deve ter dimensões de **20x20 pixels** para exibição correta.
 
 ---
 
-## Personalizações 🔧
+## 🔧 Personalizações 
 
 - **Velocidade do Jogo**: Ajuste a variável `SPEED` para alterar a velocidade.
 - **Tamanho dos Blocos**: Modifique `BLOCK_SIZE` para ajustar o tamanho da cobra e da comida.
@@ -88,9 +88,9 @@ Certifique-se de que o arquivo **`player.png`** (sprite da cobra) esteja present
 
 ---
 
-## Exemplo de Tela do Jogo 🎥
+## 🎥 Exemplo de Tela do Jogo 
 
-*(Adicione aqui uma imagem ou captura de tela, como `screenshot.png`.)*
+![📸 Captura de Tela](./images/screenshot.png)
 
 ---
 
