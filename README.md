@@ -20,7 +20,7 @@ pip install pygame
 1. Execute o arquivo do jogo:
 
    ```bash
-   python snake_game.py
+   python snake.py
    ```
 
 2. Use as setas do teclado para controlar a direção da cobra:
@@ -94,7 +94,7 @@ Certifique-se de que o arquivo **`player.png`** (sprite da cobra) esteja present
 
 ---
 
-## Licença 📜
+## 📜 Licença 
 
 Este projeto está disponível sob a licença **MIT**. Sinta-se à vontade para modificá-lo e distribuí-lo livremente.
 
@@ -102,6 +102,5 @@ Este projeto está disponível sob a licença **MIT**. Sinta-se à vontade para 
 
 ## 👤 Autor
 - **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
-
 
 ---
