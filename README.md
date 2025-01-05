@@ -100,8 +100,8 @@ Este projeto está disponível sob a licença **MIT**. Sinta-se à vontade para 
 
 ---
 
-## Autor ✍️
+## 👤 Autor
+- **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
 
-Desenvolvido por **CronosSon**.
 
 ---
