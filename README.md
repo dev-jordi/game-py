@@ -7,7 +7,7 @@ Este projeto é um jogo clássico de Snake desenvolvido em Python utilizando a b
 ## 🔹 Requisitos 
 
 - ![Python](https://img.shields.io/badge/Python-3.10-blue)
-- **Pygame**: Para instalar, use o comando:
+- **Pygame**
 
 ```bash
 pip install pygame
@@ -97,10 +97,3 @@ Certifique-se de que o arquivo **`player.png`** (sprite da cobra) esteja present
 ## 📜 Licença 
 
 Este projeto está disponível sob a licença **MIT**. Sinta-se à vontade para modificá-lo e distribuí-lo livremente.
-
----
-
-## 👤 Autor
-- **Jordi** - [Jordi Branger](https://dev-jordi.github.io/lab/)
-
----
