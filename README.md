@@ -6,8 +6,7 @@ Este projeto é um jogo clássico de Snake desenvolvido em Python utilizando a b
 
 ## 🔹 Requisitos 
 
-- ![Python](https://img.shields.io/badge/Python-3.10-blue)
-- **Pygame**
+- ![Python](https://img.shields.io/badge/Python-3.10-blue) [Py game](https://img.shields.io/badge/Pygame)
 
 ```bash
 pip install pygame
